@@ -1,2 +1,26 @@
 # Combustion-
 Custom Combustion Codes for JAS at UCF inline jet engine
+
+Installation Guide for Python
+==========================================
+Cantera
+install conda
+
+conda create --name cantera-env python=3.10
+
+
+conda activate cantera-env
+
+pip install cantera matplotlib ipykernel
+
+python -m ipykernel install --user --name cantera-env --display-name "Python (cantera-env)"
+
+Go to anaconda and load spyder
+-Go to tool -> Preferences -> Python interpreter
+C:\Users\<your-username>\anaconda3\envs\cantera-env\python.exe
+
+if your spyder doesn't have a kernel
+reload cantera environment
+conda activate cantera-env
+pip install spyder-kernels==2.5.*
+

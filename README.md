@@ -2,7 +2,12 @@
 Custom Combustion Codes for JAS at UCF inline jet engine
 
 # Combustion-
-The two must updated scripts that should be used is combustor4.py and combustor6.py
+The two must updated scripts that should be used is combustor4.py. Combustor3.py is a good setup for the design and setup and the paper for this jet engine
+can be found here -> https://www.mdpi.com/2226-4310/11/1/22
+
+The geometry and air mass flow are the most important editable variables present in the code that physcially effect the shape of the combustor.
+
+The Gaussian Pulse Code can be edited and is found here -> https://cantera.org/3.1/examples/cxx/combustor.html
 
 Installation Guide for Python
 ==========================================

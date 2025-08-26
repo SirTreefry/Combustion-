@@ -1,6 +1,9 @@
 # Combustion-
 Custom Combustion Codes for JAS at UCF inline jet engine
 
+# Combustion-
+The two must updated scripts that should be used is combustor4.py and combustor6.py
+
 Installation Guide for Python
 ==========================================
 Cantera

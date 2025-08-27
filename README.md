@@ -8,7 +8,7 @@ The geometry and air mass flow are the most important editable variables present
 
 The Gaussian Pulse Code can be edited and is found here -> https://cantera.org/3.1/examples/cxx/combustor.html
 
-The next expected update is for efficiency and soot formation in the cobmustor that will be in Combustor6.py.
+The next expected update is for efficiency and soot formation in the combustor. That will be when Combustor6 is released.
 
 Installation Guide for Python
 ==========================================
